@@ -1,0 +1,162 @@
+body {
+	font-family: 'Baloo Bhai', cursive;
+
+	margin: 0px;
+	padding: 0px;
+	background: url('img/aditya.jpg.jpg')
+	
+}
+
+.left {
+	display: inline-block;
+	/* border: 2px solid red; */
+	position: absolute;
+	left: 60px;
+	top: 20px;
+}
+
+.left img {
+	width: 136px;
+
+}
+
+
+
+
+.mid {
+	position: fixed;
+	display: block;
+	width: 100%;
+	margin: -31px auto;
+	background-color: yellow;
+	padding-top: 12px;
+
+	/* border: 2px solid green; */
+}
+
+.bottom {
+
+	padding-top: 14px;
+	padding-left: 225px;
+}
+
+.navibar {
+	display: inline-block;
+}
+
+.navibar li {
+	display: inline-block;
+	font-size: 25px;
+}
+
+.navibar li a {
+	color: black;
+	text-decoration: none;
+	padding: 34px 23px;
+
+}
+
+.navibar li a:hover {
+	text-decoration: underline;
+	color: rgb(19, 48, 129);
+
+
+}
+
+.about {
+	font-size: 3em;
+	color: rgb(60, 9, 73);
+	padding-top: 70px;
+	padding-left: 212px;
+	text-decoration: underline;
+}
+
+.project {
+	font-size: 3em;
+	color: rgb(60, 9, 73);
+	padding-top: 70px;
+	padding-left: 212px;
+
+	text-decoration: underline;
+}
+
+.languages {
+	font-size: 3em;
+	color: rgb(60, 9, 73);
+	padding-top: 70px;
+	padding-left: 212px;
+
+	text-decoration: underline;
+
+}
+
+.Contact {
+	font-size: 3em;
+	color: rgb(60, 9, 73);
+	padding-top: 70px;
+	padding-left: 212px;
+
+	text-decoration: underline;
+}
+
+#a {
+	position: absolute;
+	top: 0px;
+
+	left: 460px;
+}
+
+#b {
+	position: absolute;
+	top: 0px;
+	left: 640px;
+}
+
+#c {
+	position: absolute;
+	top: 0px;
+	left: 1100px;
+}
+
+#d {
+	position: absolute;
+	top: 0px;
+	left: 780px;
+}
+
+.para1 {
+	font-size: x-large;
+	padding-top: 20px;
+	padding-left: 248px;
+	width: 988px;
+}
+
+.para2 {
+	font-size: x-large;
+	padding-top: 31px;
+	padding-left: 212px;
+
+}
+
+.spec {
+	font-size: x-large;
+	padding-top: 14px;
+	padding-left: 225px;
+}
+
+
+.script {
+
+
+	padding-top: 14px;
+	padding-left: 225px;
+}
+
+.script li {
+	display: inline-block;
+
+}
+
+.script li a {
+	padding: 34px 23px;
+}
